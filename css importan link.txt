@@ -1,0 +1,19 @@
+https://www.w3schools.com/cssref/css_units.asp
+
+css box model 
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+
+inline blocklin lnlin-blocklin
+display flex what is..?
+google : olny border in lafe side in div
+
+id jonno # tag use korte hoy . ex: #hello
+id ek jaygar beshi na kora valol . korle problem hoite pare
+
+2) class jonno class ar age .(dot) dite hoy ex: .hello 
+class onek jaygay use kora jay
+class ek sathe onek gulo use kora jay
+
+class="sala hot"
+class="sala"
+

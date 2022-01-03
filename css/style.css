@@ -1,0 +1,64 @@
+.backg{
+    background-color: whitesmoke;
+    font-size: 30px;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 100px 300px;
+    
+    
+}
+.backg2{
+    background-color: wheat;
+    font-size: 25px;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 40px 200px 100px 40px;
+}
+
+.backg3{
+    background-color: tomato;
+    font-size: 30px;
+    border: 5px solid red;
+    border-radius: 15px;
+    width: 70%;
+    margin: 0 auto;
+   
+    
+
+}
+
+
+.back4{
+    color: red;
+}
+
+.back5{
+    color: seagreen;
+}
+
+.blog-title{
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+
+}
+
+
+div p{
+
+    text-align: justify;
+    color: cornflowerblue;
+}
+
+h5{
+    display: block;
+    text-align: justify;
+
+
+}
+
+body{
+
+    background-color: rgb(35, 124, 226);
+}
